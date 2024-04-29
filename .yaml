@@ -1,6 +1,0 @@
-services:
-  - name: json-server
-    env:
-      PORT: 3000
-    buildCommand: npm install
-    startCommand: node index.js
